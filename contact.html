@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - ScienceBaba</title>
+    <meta name="description" content="Contact ScienceBaba. Reach out with your questions, feedback, or inquiries.">
+    <meta name="keywords" content="contact, feedback, questions, inquiries, ScienceBaba">
+    <meta name="author" content="ScienceBaba">
+
+    <meta property="og:title" content="Contact Us - ScienceBaba">
+    <meta property="og:description" content="Contact ScienceBaba. Reach out with your questions, feedback, or inquiries.">
+    <meta property="og:url" content="https://www.sciencebaba.com/contact">
+    <meta property="og:type" content="website">
+    <link rel="canonical" href="https://www.sciencebaba.com/contact">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9724513291347385"
+     crossorigin="anonymous"></script>
+
+     
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --text-color: #374151;
+            --heading-color: #111827;
+            --bg-color: #f9fafb;
+        }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.7;
+            color: var(--text-color);
+            background-color: var(--bg-color);
+        }
+        nav {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        nav .logo {
+            font-weight: 700;
+            font-size: 1.2rem;
+            color: var(--primary-color);
+            text-decoration: none;
+        }
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 24px;
+        }
+        nav a {
+            text-decoration: none;
+            color: var(--text-color);
+            font-weight: 500;
+        }
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+            color: var(--heading-color);
+        }
+        form {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            max-width: 500px;
+        }
+        label {
+            font-weight: 600;
+            color: var(--heading-color);
+        }
+        input, textarea {
+            padding: 0.75rem;
+            border: 1px solid #d1d5db;
+            border-radius: 6px;
+            font-family: inherit;
+            font-size: 1rem;
+        }
+        button {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 6px;
+            font-weight: 600;
+            cursor: pointer;
+            align-self: flex-start;
+        }
+        button:hover {
+            background-color: #1d4ed8;
+        }
+        footer {
+            background-color: #111827;
+            color: #9ca3af;
+            padding: 3rem 0;
+            text-align: center;
+            font-size: 0.9rem;
+            margin-top: 4rem;
+        }
+
+        /* Mobile Menu & Responsive Styles */
+        .menu-icon {
+            display: none;
+            cursor: pointer;
+            padding: 0.5rem;
+            color: var(--text-color);
+        }
+
+        @media (max-width: 768px) {
+            nav {
+                padding: 1rem;
+            }
+            .menu-icon {
+                display: block;
+            }
+            nav ul {
+                display: none;
+                flex-direction: column;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                width: 100%;
+                background: rgba(255, 255, 255, 0.98);
+                backdrop-filter: blur(10px);
+                box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+                padding: 1rem 0;
+                gap: 0;
+                border-top: 1px solid #e5e7eb;
+            }
+            nav ul.active {
+                display: flex;
+            }
+            nav ul li a {
+                display: block;
+                padding: 1rem 2rem;
+                border-bottom: 1px solid #f3f4f6;
+            }
+            .container {
+                margin: 1.5rem 1rem;
+                padding: 1.5rem;
+            }
+            h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="/" class="logo">ScienceBaba</a>
+        <div class="menu-icon" onclick="document.querySelector('nav ul').classList.toggle('active')">
+            <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
+        </div>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="about">About</a></li>
+            <li><a href="contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <h1>Contact Us</h1>
+        <p>Have a question or feedback? We'd love to hear from you. Fill out the form below and we'll get back to you as soon as possible.</p>
+        
+        <form>
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
+            
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+            
+            <button type="submit">Send Message</button>
+        </form>
+
+        <div style="margin-top: 3rem;">
+            <h2>Visit Us</h2>
+            <p><strong>ScienceBaba HQ</strong><br>
+            Plot No. 45, Tech Park, Malviya Nagar<br>
+            Jaipur, Rajasthan 302017<br>
+            India</p>
+            <p><strong>Support Hours:</strong> Monday - Friday, 9am - 5pm PST</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 ScienceBaba. All rights reserved.</p>
+        <p style="margin-top: 10px; font-size: 0.8rem;">
+            <a href="privacy" style="color: inherit; text-decoration: none;">Privacy Policy</a> | 
+            <a href="terms" style="color: inherit; text-decoration: none;">Terms of Service</a> | 
+            <a href="contact" style="color: inherit; text-decoration: none;">Contact Us</a> | 
+            <a href="about" style="color: inherit; text-decoration: none;">About Us</a>
+        </p>
+
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "WebPage",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.sciencebaba.com/contact"
+          },
+          "headline": "Contact Us - ScienceBaba",
+          "description": "Contact ScienceBaba. Reach out with your questions, feedback, or inquiries.",
+          "author": {
+            "@type": "Organization",
+            "name": "ScienceBaba"
+          },
+          "publisher": { "@type": "Organization", "name": "ScienceBaba" }
+        }
+        </script>
+    </footer>
+</body>
+</html>
