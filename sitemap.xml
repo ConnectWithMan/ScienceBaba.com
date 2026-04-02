@@ -1,92 +1,133 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://www.sciencebaba.com/</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://www.sciencebaba.com/</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/reap2026</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.sciencebaba.com/reap2026</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/reap-faq</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.sciencebaba.com/reap-branch-wise-cutoff</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/privacy</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.sciencebaba.com/reap-faq</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/terms</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.sciencebaba.com/privacy</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/contact</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.sciencebaba.com/terms</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/about</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://www.sciencebaba.com/contact</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/reap-official-website</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/about</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/reap-application-form</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/reap-official-website</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/reap-registration</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/reap-application-form</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/reap-counselling</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/reap-registration</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/reap-exam</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/reap-counselling</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/reap-full-form</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/reap-exam</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/best-ai-assistant-in-2026</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/reap-full-form</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/best-ai-chatbot-in-2026</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/reap-eligibility-criteria</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://www.sciencebaba.com/best-ai-image-generator-in-2026</loc>
-  <lastmod>2026-03-19T20:11:34+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://www.sciencebaba.com/reap-choice-filling</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
 </url>
-
-
+<url>
+<loc>https://www.sciencebaba.com/reap-reservation-policy</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/reap-colleges-list</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/skit-cutoff</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/mbm-jodhpur-cutoff</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/reap-cutoff</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/rtu-kota-cutoff</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/best-ai-assistant-in-2026</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/best-ai-chatbot-in-2026</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/best-ai-image-generator-in-2026</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://www.sciencebaba.com/jecrc-cutoff</loc>
+<lastmod>2026-04-02T21:54:42+00:00</lastmod>
+<priority>0.51</priority>
+</url>
 </urlset>
